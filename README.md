@@ -2,8 +2,11 @@ Hello im @mulucy
 It's my GitHub profile.
 <!-- finished
   -->
-Skills
-C#, Python, Assembly
+##Skills
+<img src="https://skillicons.dev/icons?i=cs"><img src="https://skillicons.dev/icons?i=py"><img src="https://static-00.iconduck.com/assets.00/assembly-icon-512x512-tbwr7d4r.png">
+
+
+
 
 
 <!---
