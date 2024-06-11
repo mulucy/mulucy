@@ -3,7 +3,7 @@ It's my GitHub profile.
 <!-- finished
   -->
 ##Skills
-<img src="https://skillicons.dev/icons?i=cs"><img src="https://skillicons.dev/icons?i=py"><img src="https://static-00.iconduck.com/assets.00/assembly-icon-512x512-tbwr7d4r.png">
+<img src="https://skillicons.dev/icons?i=cs"><img src="https://skillicons.dev/icons?i=py"> and Assembly
 
 
 
