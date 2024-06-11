@@ -2,8 +2,9 @@ Hello im @mulucy
 It's my GitHub profile.
 <!-- finished
   -->
-##Skills
-<img src="https://skillicons.dev/icons?i=cs"><img src="https://skillicons.dev/icons?i=py"> and Assembly
+<h1>Skills</h1>
+<a href=# target=blank><img src="https://skillicons.dev/icons?i=cs"></a>
+<a href=# target=blank><img src="https://skillicons.dev/icons?i=py"></a> and Assembly
 
 
 
