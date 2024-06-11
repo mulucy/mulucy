@@ -3,7 +3,7 @@ It's my GitHub profile.
 <!-- finished
   -->
 Skills
-[![My Skills](https://skills.thijs.gg/icons?i=cs,py,&theme=light)](https://skills.thijs.gg) 
+[![My Skills](https://skills.thijs.gg/icons?i=cs,py&theme=light)](https://skills.thijs.gg) 
 and Assembly
 
 <!---
